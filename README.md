@@ -43,7 +43,7 @@ git clone https://github.com/yasinatesim/bicycle-404-error-page.git
 ```bash
 npm install
 ```
- 4. Develop awesome things
+ 3. Develop awesome things
 ```bash
 npm start
 ```
