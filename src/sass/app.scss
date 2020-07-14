@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.error-page {
+  &-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-repeat: repeat-x;
+    background-position-y: center;
+    animation: bgPosition 100s linear infinite;
+    background-image: none;
+
+    @media (min-width: 576px) {
+      background-image: url(../img/error-page-bg.png);
+    }
+  }
+
+  &-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -7%;
+    z-index: -1;
+    padding-left: 15px;
+    padding-right: 15px;
+    img {
+      max-width: 100%;
+      @media (min-width: 768px) {
+        max-width: auto;
+      }
+    }
+  }
+}
+
+@keyframes bgPosition {
+  from {
+    background-position-x: 0;
+  }
+
+  to {
+    background-position-x: 100%;
+  }
+}
