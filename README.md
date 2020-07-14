@@ -36,7 +36,7 @@ I'm preparing for my project **folder structure stack** project soon 😎
  1. Clone this repository
 
 ```bash
-git clone https://github.com/yasinatesim/yasinates.com.git
+git clone https://github.com/yasinatesim/bicycle-404-error-page.git
 ```
 
  2. Install the project dependencies
