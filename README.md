@@ -18,7 +18,7 @@
 </p>
 
   <p align="center">
-    · <a href="https://yasinatesim.github.io/bicycle-404-error-page/dist/index.html">View Demo</a>
+    · <a href="https://yasinatesim.github.io/bicycle-404-error-page/dist/">View Demo</a>
   </p>
 </p>
 
