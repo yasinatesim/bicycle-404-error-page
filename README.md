@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <br>
-  <a href="https://github.com/yasinatesim/yasinates.com"><img src="./dist/assets/img/error-page-text.png" alt="Bicycle 404 Error Page" width="200"></a>
+  <a href="https://github.com/yasinatesim/bicycle-404-error-page"><img src="./dist/assets/img/error-page-text.png" alt="Bicycle 404 Error Page" width="200"></a>
   <br>
   Bicycle 404 Error Page
   <br>
