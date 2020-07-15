@@ -19,6 +19,7 @@
 
   <p align="center">
     · <a href="https://yasinatesim.github.io/bicycle-404-error-page/dist/">View Demo</a>
+    · <a href="https://www.uplabs.com/posts/404-78b9a915-2ee4-4d95-bbc8-e7354d5f4776">View Template</a>  
   </p>
 </p>
 
