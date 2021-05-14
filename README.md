@@ -18,8 +18,6 @@
 
 ## 📖 About
 
-<img src="./dist/assets/img/error-page-text.png" alt="Bicycle 404 Error Page">
-
 This project was created to create a small project folder structure 😋.
 I developed this project because, I need a small folder structure contains of only HTML and CSS (SCSS).
 I'm preparing for my project **folder structure stack** project soon 😎
