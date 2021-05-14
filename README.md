@@ -10,13 +10,6 @@
 <hr>
 <p align="center">This project was created to create a small project folder structure 😋</p>
 
-<p align="center">
-    <img src="https://img.shields.io/github/license/yasinatesim/yasinates.com?color=%23303036&style=flat-square"
-         alt="License">
-<a href="https://www.linkedin.com/in/yasinatesim"><img src="https://img.shields.io/badge/Linkedin-%23303036?logo=linkedin&color=%23303036&style=flat-square"></a>
-<a href="https://www.instagram.com/codewith_yasinatesim"><img src="https://img.shields.io/badge/Instagram-%23303036?logo=instagram&color=%23303036&style=flat-square"></a>
-</p>
-
   <p align="center">
     · <a href="https://yasinatesim.github.io/bicycle-404-error-page/dist/">View Demo</a>
     · <a href="https://www.uplabs.com/posts/404-78b9a915-2ee4-4d95-bbc8-e7354d5f4776">View Template</a>  
